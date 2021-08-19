@@ -5,12 +5,12 @@ import 'firebase/firestore';
 import 'firebase/auth'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDqCl2qbgcv_CunohWOdMkS_FApPPWdPSY",
-    authDomain: "aliens-a79a7.firebaseapp.com",
-    projectId: "aliens-a79a7",
-    storageBucket: "aliens-a79a7.appspot.com",
-    messagingSenderId: "450049953199",
-    appId: "1:450049953199:web:b537c3ca1813b28707b35a"
+    apiKey: "AIzaSyBPNThD3pATKaezkR6_bqJ4Y-lSD87hnqc",
+    authDomain: "onlineshoppingapp-127be.firebaseapp.com",
+    projectId: "onlineshoppingapp-127be",
+    storageBucket: "onlineshoppingapp-127be.appspot.com",
+    messagingSenderId: "702391031088",
+    appId: "1:702391031088:web:71d76762ad35496b7164f5"
 };
 
 firebase.initializeApp(firebaseConfig);
